@@ -26,3 +26,7 @@ pip install scikit-learn scikit-surprise streamlit
   용량 문제로 저장소에는 포함하지 않았으며, `build_similarity.py`를 실행하면 유사도 행렬(`cosine_sim.pickle`)이 생성됩니다.
 - `05_활용편6_이미지처리` 예제는 별도 이미지가 없어도 `_sample.py`가 테스트 이미지를 자동 생성합니다.
   `ex05_얼굴인식_스티커.py`는 웹캠과 투명 PNG 스티커(`right_eye.png`, `left_eye.png`)가 필요합니다.
+
+## 라이선스
+
+03OhI가 저작권을 보유한 기여분에는 [GNU Affero General Public License v3.0](LICENSE) (`AGPL-3.0-only`)가 적용됩니다. 강의에서 가져온 예제, 웹페이지 캡처, 외부 이미지와 데이터에는 각 권리자의 이용 조건이 적용됩니다.
